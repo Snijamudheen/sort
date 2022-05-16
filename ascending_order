@@ -1,5 +1,3 @@
-/*q.32 WAP to sort an array in ascending order.*/
-
 #include<iostream>
 using namespace std;
 
